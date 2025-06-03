@@ -24,6 +24,7 @@ For more details about these routines, please see the paper ([PRD](https://doi.o
 ## Citing this package
 
 If you find this package useful for your research, please cite the paper:
+
 ```
     @article{Thomas:2025rje,
     author = "Thomas, Lucy M. and Chatziioannou, Katerina and Varma, Vijay and Field, Scott E.",
